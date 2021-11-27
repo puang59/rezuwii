@@ -5,3 +5,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezuwii&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rezuwii" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezuwii&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rezuwii" /></p>
+<p>Most of my repos are private because yes</p> 
